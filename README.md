@@ -10,9 +10,6 @@
 <!-- Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ingrid-loureiro/)
 
-<!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=IngridLoureiro&show_icons=true&theme=gotham)
-
 <!-- Portfolio -->
 ## Portfolio:
 - Portfolio under construction
@@ -21,13 +18,10 @@
 ![giphy_360](https://github.com/IngridLoureiro/IngridLoureiro/assets/62916163/8bd47b85-6e43-48b9-91f7-95136e4328e0)
 
 <!-- Skills: Programming Languages -->
-## 🔥 Skills
-<div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-          
-  </div>
+## ⚡ Stack
+
+* **Data Engineering:**  Athena,EMR, Glue, Kinesis, Spark, S3, SQL.
+* **Software Engineering:** ECS, Event Bridge,Git, Lambda,RDS, SNS, SQS,Step Functions,SQLModel,VPC.
+* **DevOps:** CloudFormation, Docker,GitHub Actions, Terraform.
+* **Languages:** Java e Python
 
